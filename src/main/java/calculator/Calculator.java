@@ -12,6 +12,10 @@ public class Calculator {
   public static double multiply(double x, double y) {
     return x * y;
   }
+  
+  public static double multiply2(double x, double y) {
+    return x * y;
+  }
 
   public static double divide(double x, double y) {
     if (y == 0) {
