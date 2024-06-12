@@ -14,7 +14,8 @@ public class Calculator {
   }
   
   public static double multiply2(double x, double y) {
-    return x * y;
+    Double a = 0.0;
+    return x * y * a;
   }
 
   public static double divide(double x, double y) {
